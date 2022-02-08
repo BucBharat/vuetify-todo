@@ -46,22 +46,9 @@
       </template>
 
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
-
-      <v-app-bar-title>Application</v-app-bar-title>
-
-      <!-- <v-spacer></v-spacer> -->
-
-      <!-- <v-btn icon>
-        <v-icon>mdi-magnify</v-icon>
-      </v-btn>
-
-      <v-btn icon>
-        <v-icon>mdi-heart</v-icon>
-      </v-btn>
-
-      <v-btn icon>
-        <v-icon>mdi-dots-vertical</v-icon>
-      </v-btn> -->
+      <!-- <p>Title</p> -->
+      <v-app-bar-title>TODO</v-app-bar-title>
+      <!-- <v-app-bar-title>Todo</v-app-bar-title> -->
     </v-app-bar>
 
     <v-main>
